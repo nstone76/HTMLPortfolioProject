@@ -35,3 +35,8 @@ h3 {
 .skills {
   background-color: #f9a58e;
 }
+
+.skills ul {
+  list-style-type: none;
+  font-weight: 600;
+}
