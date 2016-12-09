@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Sanchez', serif;
+}
+
+div {
+  text-align:center;
+  padding: 15%;
+}
+
+h1, h2, h3 {
+  color: #333;
+  font-family: 'Arimo', sans-serif;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+h3 {
+  font-size: 2.6em;
+}
+.header {
+  background-color: #f46842;
+}
+
+.tagline {
+  background-color: #f98666;
+}
+
+.skills {
+  background-color: #f9a58e;
+}
